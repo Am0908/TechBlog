@@ -1,0 +1,12 @@
+.primary-background
+{
+    background: #472183 !important;
+}
+.main-body{
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(251,251,251,1) 100%);
+}
+.banner-background{
+    clip-path: polygon(0 0, 100% 0, 99% 100%, 72% 90%, 31% 100%, 0 89%);
+    background: rgb(216,175,255)!important;
+    background: linear-gradient(90deg, rgba(216,175,255,1) 0%, rgba(116,210,255,1) 100%)!important;
+}
